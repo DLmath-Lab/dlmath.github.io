@@ -65,7 +65,7 @@ ul {
 }
 
 .logo-img {
-    height: 120px; /* 로고 크기 */
+    height: 80px; /* 로고 크기 */
     margin-right: 30px;
 }
 
@@ -523,4 +523,5 @@ footer {
     font-size: 1.8rem;
     margin-right: 15px;
 }
+
 
